@@ -1,6 +1,7 @@
 ### Olá 👋 me chamo Lucas Gabriel Viotti sou estudante de análise e desenvolvimento de sistemas e intusiasta de tecnologias.
-- 🔭 I’m currently not working.
-- 🌱 I’m currently learning Java (backend), Jscript, Html and Css.
+- 🔭 Não estou trabalhando no momento (a procura).
+- 🌱 No momento estudando Java (backend), Jscript, Html and CSS.
+- 🏘️ Atualmente morando em Ribeirão Preto - São Paulo / Brasil.
 
 ##
 <div align="center">
