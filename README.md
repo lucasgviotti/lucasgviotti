@@ -1,6 +1,6 @@
 ### Olá 👋 me chamo Lucas Gabriel Viotti sou estudante de análise e desenvolvimento de sistemas e intusiasta de tecnologias.
 - 🔭 Não estou trabalhando no momento (à procura).
-- 🌱 No momento estudando Java (backend), Jscript, Html and CSS.
+- 🌱 No momento estudando Data Science juntamente com Business Intelligence.
 - 🏘️ Atualmente morando em Ribeirão Preto - São Paulo / Brasil.
 
 ##
