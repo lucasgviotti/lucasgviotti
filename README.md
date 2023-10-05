@@ -31,4 +31,3 @@ tenho 33 anos, arquiteto com experiência em educação e tecnologia. Possuo for
   
 </div>
 
-![Snake animation](https://github.com/lucasgviotti)
