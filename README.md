@@ -13,12 +13,13 @@ tenho 33 anos, arquiteto com experiência em educação e tecnologia. Possuo for
 </div> 
 
 ##
-
-<div align="center">
-  <a href="https://github.com/lucasgviotti">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasgviotti&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgviotti&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
+<div>
+  <a href="https://github.com/lucasgviotti/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgviotti&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasgviotti&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+</a>
 </div>
 
   ##
@@ -26,6 +27,5 @@ tenho 33 anos, arquiteto com experiência em educação e tecnologia. Possuo for
 <div> 
   <a href = "mailto:viottiarquiteto@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-viotti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
 
