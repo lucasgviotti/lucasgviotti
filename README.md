@@ -14,13 +14,11 @@ tenho 33 anos, arquiteto com experiência em educação e tecnologia. Possuo for
 
 ##
 
-<div>
-  <a href="https://github.com/lucasgviotti/github-readme-stats"> 
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgviotti"/> 
-</a>
-<a href="https://github.com/lucasgviotti/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasgviotti&layout=compact&langs_count=8&card_width=320" />
-</a>
+<div align="center">
+  <a href="https://github.com/lucasgviotti">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasgviotti&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgviotti&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 </div>
 
   ##
