@@ -1,9 +1,8 @@
 ### Olá 👋 me chamo Lucas Gabriel Viotti,
 arquiteto e urbanista com experiência em educação e tecnologia. Possuo formação em Arquitetura e 
 Urbanismo, pós-graduação em Pedagogia e recem formado em Análise e Desenvolvimento de Sistemas. 
-Comunicativo e criativo, trabalhei como professor, adquirindo entendimento da interação entre conceitos e problemáticas X  
-pessoas. Meu interesse pela tecnologia me levou até a área de tecnologia, buscando combinar 
-meus conhecimentos adquiridos na vida pessoal e em experiências profissionais passadas, com as possibilidades tecnológicas. 
+Comunicativo e criativo, trabalhei como professor, adquirindo entendimento da interação entre conceitos e problemáticas X pessoas. 
+Meu interesse pela tecnologia me levou até a área de tecnologia, buscando combinar meus conhecimentos adquiridos na vida pessoal e em experiências profissionais passadas, com as possibilidades tecnológicas. 
 Minha formação em pedagogia proporciona habilidades em comunicação e trabalho em equipe. Empolgado para contribuir 
 em projetos inovadores que envolvam soluções inteligentes e tecnologicas.
 - 🔭 <strong>Não estou trabalhando no momento (à procura).</strong>
