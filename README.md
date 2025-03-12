@@ -10,16 +10,6 @@ em projetos inovadores que envolvam soluções inteligentes e tecnologicas.
 - 🏘️ Morando em Ribeirão Preto - São Paulo / Brasil.
 
 ##
-<div>
-  <a href="https://github.com/lucasgviotti/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgviotti&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasgviotti&layout=compact&langs_count=8&card_width=320&theme=dracula" />
-</a>
-</div>
-
-  ##
  
 <div> 
   <a href = "mailto:viottiarquiteto@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
