@@ -6,7 +6,7 @@ Meu interesse pela tecnologia me levou até a área de tecnologia, buscando comb
 Minha formação em pedagogia proporciona habilidades em comunicação e trabalho em equipe. Empolgado para contribuir 
 em projetos inovadores que envolvam soluções inteligentes e tecnologicas.
 - 🔭 <strong>Não estou trabalhando no momento (à procura).</strong>
-- 🌱 Estudando Computação em Nuvem e Data.
+- 🌱 Estudando Computação em Nuvem (Azure), Data (Python - Pandas - Spark) e Dashmaker (PowerBI).
 - 🏘️ Morando em Ribeirão Preto - São Paulo / Brasil.
 
 ##
