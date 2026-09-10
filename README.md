@@ -1,6 +1,6 @@
 ### Olá 👋 me chamo Lucas Gabriel Viotti,
 
-Analista de sistemas e arquiteto com pós-graduação em Pedagogia. Minha experiência como docente em cursos de tecnologia e arquitetura me proporcionou sólidas habilidades em comunicação, didática e trabalho em equipe. Empolgado em combinar meus conhecimentos técnicos com a paixão por ensinar, desenvolvendo constantemente habilidades em nuvem, análise de dados e Python, busco contribuir em projetos inovadores que envolvam soluções tecnológicas e o desenvolvimento de pessoas e empresas.
+Estudante de Analise de Sistemas, Arquiteto e Urbanista com pós-graduação em Pedagogia. Minha experiência como docente em cursos de tecnologia e arquitetura me proporcionou sólidas habilidades em comunicação, didática e trabalho em equipe. Empolgado em combinar meus conhecimentos técnicos com a paixão por ensinar, busco contribuir em projetos inovadores que envolvam soluções tecnológicas e o desenvolvimento de pessoas e empresas.
 
 - 🔭 <strong>Não estou trabalhando no momento (à procura).</strong>
 
